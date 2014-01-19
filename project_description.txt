@@ -1,0 +1,1 @@
+This project is intended to be a location for putting snippets of test code for use with the spark wifi module when testing its functionality.
